@@ -1,0 +1,1 @@
+Elementos del arreglo: [32][24][12][43][52][12][32][43][12][43][23]Elemento ordenados del arreglo: [12][12][12][23][24][32][32][43][43][43][52]
